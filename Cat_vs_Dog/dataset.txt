@@ -1,0 +1,4 @@
+DATASET ON KAGGLE
+
+NAME:  dogs vs cats
+LINK:  https://www.kaggle.com/datasets/salader/dogs-vs-cats
